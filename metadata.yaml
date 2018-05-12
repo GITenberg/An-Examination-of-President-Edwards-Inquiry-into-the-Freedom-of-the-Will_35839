@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32979'
     url: http://www.gutenberg.org/2009/agents/32979
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35839#An-Examination-of-President-Edwards-Inquiry-into-the-Freedom-of-the-Will
 gutenberg_issued: '2011-04-12'
 gutenberg_type: Text
 identifiers:
